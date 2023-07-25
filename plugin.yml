@@ -1,0 +1,11 @@
+name: chop-tree
+main: com.jamessu.lumberjack.Main
+version: 1.1
+description: An auto chop tree plugin
+author: Jamessu
+api-version: 1.20
+#commands:
+#  choptree:
+#    description: choptree command.
+#    aliases: ct
+#    usage: /<command> help
